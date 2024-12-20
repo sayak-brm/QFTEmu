@@ -1,0 +1,16 @@
+# Ignore all files in the root directory except for the following:
+*
+!README.md
+!.gitignore
+!LICENSE
+!requirements.txt
+
+# Ignore all Python cache and build files
+__pycache__/
+*.pyc
+
+# Ignore all Jupyter notebook output files
+*.ipynb
+
+# Ignore all data files
+data/*
