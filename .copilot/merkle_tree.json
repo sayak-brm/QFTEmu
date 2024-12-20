@@ -1,0 +1,338 @@
+{
+  "hash": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+  "parent": null,
+  "children": [
+    {
+      "hash": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "05becdb83bb897f6103c8d91439e2e9092144edf5b3955a746fce4975c12bfdc",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": null,
+          "path": ".git\\config",
+          "updated": true
+        },
+        {
+          "hash": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": null,
+          "path": ".git\\description",
+          "updated": true
+        },
+        {
+          "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": null,
+          "path": ".git\\FETCH_HEAD",
+          "updated": true
+        },
+        {
+          "hash": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": null,
+          "path": ".git\\HEAD",
+          "updated": true
+        },
+        {
+          "hash": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": [
+            {
+              "hash": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\applypatch-msg.sample",
+              "updated": true
+            },
+            {
+              "hash": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\commit-msg.sample",
+              "updated": true
+            },
+            {
+              "hash": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\fsmonitor-watchman.sample",
+              "updated": true
+            },
+            {
+              "hash": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\post-update.sample",
+              "updated": true
+            },
+            {
+              "hash": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-applypatch.sample",
+              "updated": true
+            },
+            {
+              "hash": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-commit.sample",
+              "updated": true
+            },
+            {
+              "hash": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-merge-commit.sample",
+              "updated": true
+            },
+            {
+              "hash": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-push.sample",
+              "updated": true
+            },
+            {
+              "hash": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-rebase.sample",
+              "updated": true
+            },
+            {
+              "hash": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\pre-receive.sample",
+              "updated": true
+            },
+            {
+              "hash": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\prepare-commit-msg.sample",
+              "updated": true
+            },
+            {
+              "hash": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\push-to-checkout.sample",
+              "updated": true
+            },
+            {
+              "hash": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106",
+              "parent": "b7bd96c4b7b80021802132ed6c1025a86600a5e86d24603087234c73d47b8193",
+              "children": null,
+              "path": ".git\\hooks\\update.sample",
+              "updated": true
+            }
+          ],
+          "path": ".git\\hooks",
+          "updated": true
+        },
+        {
+          "hash": "61d6e6cb831dfd8ea2039d80e102e14a1fc30693bb6b1dc307a2f5ce2c4545a1",
+          "parent": "1c7a3b24aea152ee693de9953d27ee017c3e20155868b14eeba3257cce6e26ef",
+          "children": [
+            {
+              "hash": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1",
+              "parent": "61d6e6cb831dfd8ea2039d80e102e14a1fc30693bb6b1dc307a2f5ce2c4545a1",
+              "children": null,
+              "path": ".git\\info\\exclude",
+              "updated": true
+            }
+          ],
+          "path": ".git\\info",
+          "updated": true
+        }
+      ],
+      "path": ".git",
+      "updated": true
+    },
+    {
+      "hash": "8e03c01226940f18d18411d87f280032fc7dc814d8dd63124971ca5f695a26d4",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "a1d623cc8123327ccc6fea3f1f24605aa3a83307e0403655913cd9b6f2708f1a",
+          "parent": "8e03c01226940f18d18411d87f280032fc7dc814d8dd63124971ca5f695a26d4",
+          "children": null,
+          "path": "config\\enums.py",
+          "updated": true
+        }
+      ],
+      "path": "config",
+      "updated": true
+    },
+    {
+      "hash": "3908a07dba17d8c9bc4425a76d3a6c3af1538a8568d289979f8536ce9da59dd1",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "cb313ce138b7ae12763601427d7ce8dd9258ef47b003e5051139162b8dac5b3d",
+          "parent": "3908a07dba17d8c9bc4425a76d3a6c3af1538a8568d289979f8536ce9da59dd1",
+          "children": null,
+          "path": "denoiser\\model.py",
+          "updated": true
+        }
+      ],
+      "path": "denoiser",
+      "updated": true
+    },
+    {
+      "hash": "5609bda28a3e7df539bf8a5b1ce30b6c2b33efefe4840b92b409d62e02bb4f9f",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "e8b2532a454a5c028199d772e3b4d1b31e28dd5da951e6a1a2bdd0c62814b06d",
+          "parent": "5609bda28a3e7df539bf8a5b1ce30b6c2b33efefe4840b92b409d62e02bb4f9f",
+          "children": null,
+          "path": "gpu_utils\\kernel_manager.py",
+          "updated": true
+        }
+      ],
+      "path": "gpu_utils",
+      "updated": true
+    },
+    {
+      "hash": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\config\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\config",
+          "updated": true
+        },
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\denoiser\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\denoiser",
+          "updated": true
+        },
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\gpu_utils\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\gpu_utils",
+          "updated": true
+        },
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\simulation_core\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\simulation_core",
+          "updated": true
+        },
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\tests\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\tests",
+          "updated": true
+        },
+        {
+          "hash": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+          "parent": "4a53aefc637f245657af45492da3340fdeeeed871843bae93116b8fccdc24998",
+          "children": [
+            {
+              "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+              "parent": "cd372fb85148700fa88095e3492d3f9f5beb43e555e5ff26d95f5a6adc36f8e6",
+              "children": null,
+              "path": "QFTemu\\visualization\\__init__.py",
+              "updated": true
+            }
+          ],
+          "path": "QFTemu\\visualization",
+          "updated": true
+        }
+      ],
+      "path": "QFTemu",
+      "updated": true
+    },
+    {
+      "hash": "f80eac9175c50caf3dc8298fcdad01290c9792f9949b2e0748f3793a92e3af41",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": null,
+      "path": "README.md",
+      "updated": true
+    },
+    {
+      "hash": "2ffc89284e1df8946f083d65f9b3bb2ec787f9504cb3ffdfda253284a869f9ce",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "daa2ce83ae7edbd46a746ef16742f98412144aeef48f992694fe52107bb1b15c",
+          "parent": "2ffc89284e1df8946f083d65f9b3bb2ec787f9504cb3ffdfda253284a869f9ce",
+          "children": null,
+          "path": "simulation_core\\manager.py",
+          "updated": true
+        }
+      ],
+      "path": "simulation_core",
+      "updated": true
+    },
+    {
+      "hash": "182b15af0e325974672bd37409882b5b6cbebd32d2036f30d274d7381fe92488",
+      "parent": "e09eeb089e3b7c64876b4120d176374cce5a124c0a8212b5a2ddbca71e869e4e",
+      "children": [
+        {
+          "hash": "ddf6bfd7e9354bddbebb6fde63441586ebf3606be53c614d77e08768ef4b6e9e",
+          "parent": "182b15af0e325974672bd37409882b5b6cbebd32d2036f30d274d7381fe92488",
+          "children": null,
+          "path": "visualization\\visualizer.py",
+          "updated": true
+        }
+      ],
+      "path": "visualization",
+      "updated": true
+    }
+  ],
+  "path": ".",
+  "updated": true
+}
