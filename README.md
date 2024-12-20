@@ -6,6 +6,7 @@ A GPU-accelerated quantum field theory simulation system with denoising capabili
 
 QFTemu provides a framework for simulating discretized quantum fields on GPU hardware,
 featuring:
+
 - CUDA-accelerated field evolution
 - Measurement collapse approximation via denoising
 - Configurable visualization and analysis tools
@@ -24,5 +25,6 @@ featuring:
 ## Installation
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/QFTemu.git
