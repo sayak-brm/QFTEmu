@@ -17,14 +17,10 @@ featuring:
 - NVIDIA GPU (tested with RTX 3090)
 - CUDA Toolkit
 - Python 3.10+
-- Required Python packages:
-  - pycuda
-  - numpy
-  - pytest
 
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/QFTemu.git
+git clone https://github.com/sayak-brm/QFTEmu.git
